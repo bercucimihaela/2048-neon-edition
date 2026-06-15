@@ -44,7 +44,7 @@ main.py            # Entry point — pornește aplicația
 ## Screenshots
 <img width="809" height="794" alt="gameplay" src="https://github.com/user-attachments/assets/a31408cc-b4c9-4268-bcf7-16f1ad3ee1ab" /> <img width="1032" height="799" alt="victory" src="https://github.com/user-attachments/assets/f07de2ff-a0f6-4317-8bd6-cb4324151462" /> <img width="769" height="824" alt="game-over" src="https://github.com/user-attachments/assets/3eb3efdf-507d-46a6-a615-788c1147d2d2" />
 
-
+De la stânga la dreapta: gameplay cu tema vizuală neon, atingerea pragului de 2048 (victorie) și overlay-ul de Game Over la epuizarea mutărilor.
 
 
 ```
